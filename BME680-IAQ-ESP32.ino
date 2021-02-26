@@ -204,7 +204,7 @@ void loop() {
   const char* serverName = "http://192.168.1.66/IAQ-IoT-Project-WebApp-main/BME680KitchenData.php";
 
   /* COMMENT THIS OUT IF SENSOR DATA IS IN THE BEDROOM/STUDY */
-  //const char* serverName = "http://localhost/IAQ-IoT-Project-WebApp-main/BME680Data.php";
+  //const char* serverName = "http://192.168.1.66/IAQ-IoT-Project-WebApp-main/BME680Data.php";
   
   
   //Combine results for the final IAQ index value (0-100% where 100% is good quality air)
