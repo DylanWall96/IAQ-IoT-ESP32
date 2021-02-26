@@ -12,4 +12,4 @@ Furthermore, the following line will also need altered to send the sensor data v
 
 **const char* serverName = "http://192.168.1.66/IAQ-IoT-Project-WebApp-main/BME680KitchenData.php";*
 
-*The ip address in the line above will need changed to suit your own server*
+*The ip address in the line above will need changed to suit your own server.*
